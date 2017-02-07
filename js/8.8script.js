@@ -4,4 +4,4 @@ var newText = newText.toUpperCase();
 var textRepleced = text.replace('Papugi', newText)
 var textReplacedHalf = textRepleced.substring(0, 45);
 
-alert(textReplacedHalf)
+alert(textReplacedHalf);
